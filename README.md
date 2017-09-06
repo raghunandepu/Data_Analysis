@@ -14,9 +14,23 @@ Go to options->Request Desktop site
 After you are in desktop mode, open the ipynb file to view it.
 
 ## Files
-This contains two files - 
-1. Titanic Data Analysis.ipynb : This is a jupyter notebook where the analysis is done.
+This contains the below main files - 
+1. Titanic_Data_Analysis.ipynb : This is a jupyter notebook where the analysis is done.
 2. titanic-data.csv : This is the dataset which is analyzed.
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `Data_Analysis/` (that contains this README) and run one of the following commands:
+
+```bash
+Titanic_Data_Analysis.ipynb.ipynb
+```  
+or
+```bash
+Titanic_Data_Analysis.ipynb.ipynb
+```
+
+This will open the Jupyter Notebook software and project file in your browser.
 
 ## Note
 Use this repository only as a guide for your own original work.
